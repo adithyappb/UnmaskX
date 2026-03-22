@@ -37,6 +37,11 @@ Reference dataset:
 
 - [Face mask dataset — with and without mask (Kaggle)](https://www.kaggle.com/datasets/belsonraja/face-mask-dataset-with-and-without-mask)
 
+## Security
+
+Report security vulnerabilities **privately** per [SECURITY.md](SECURITY.md). Do not file undisclosed issues in public trackers.
+
 ## Ethics
 
 Use images only where you have consent and legal right to process them. Do not commit identifiable face data.
+
