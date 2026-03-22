@@ -87,7 +87,7 @@ Binaries and personal images are excluded by design. See `.gitignore` for patter
 
 ## Contributing
 
-Guidelines, tests, and the **good first issue** template live in [CONTRIBUTING.md](CONTRIBUTING.md).
+Guidelines, tests, and the **good first issue** template live in [CONTRIBUTING.md](CONTRIBUTING.md). Security disclosures: [SECURITY.md](SECURITY.md).
 
 ## Ethics
 
@@ -96,3 +96,4 @@ Process only images you have the right to use. Do not commit identifiable faces 
 ## License
 
 Released under the [MIT License](LICENSE). Update the copyright notice in `LICENSE` when you fork or redistribute.
+
